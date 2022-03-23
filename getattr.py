@@ -10,3 +10,7 @@ class Foo:
 f = Foo()
 print('hello')
 f.bar(1, 2)
+'''
+你调用了bar
+另外的函数,参数为1,2
+'''
